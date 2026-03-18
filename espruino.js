@@ -1,3 +1,5 @@
+USB.setConsole(1);
+
 var DELIM = 0x7E;
 var STUFF = {};
 STUFF[0x7E] = [0x7D,0x5E];
